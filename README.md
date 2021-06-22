@@ -4,3 +4,4 @@
 * pip install PyAudio
 * pip install pyttsx3
 * pip install smtplib
+## In code enter your mail id and password.
